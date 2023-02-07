@@ -40,7 +40,7 @@ const Header = () => {
             <p>Share</p>
           </button>
 
-          <div>
+          <div style={{position:'relative'}}>
             <img src={bell} />
             <div className={classes.bellDiv}>3</div>
           </div>
