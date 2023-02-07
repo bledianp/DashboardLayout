@@ -1,0 +1,65 @@
+.Table {
+  background-color: white;
+  border-radius: 10px;
+  margin: 25px 36px 25px 25px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: left;
+  letter-spacing: 0.01em;
+
+  color: #0d1f36;
+  background-color: #e9eaef;
+
+  opacity: 0.5;
+}
+
+td {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 20%;
+  height: 64px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+
+  letter-spacing: 0.01em;
+
+  color: #707683;
+}
+
+.name {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 21.74%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  letter-spacing: 0.01em;
+
+  color: #323c47;
+}
+
+input {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 24px;
+  margin-right: 24px;
+}

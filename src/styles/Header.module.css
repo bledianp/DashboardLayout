@@ -1,0 +1,70 @@
+.Header {
+  width: 100%;
+  background-color: #e9eaef;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  height: 24px;
+  display: flex;
+  gap: 5px;
+  background: #cce4ff;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+button p {
+  margin: 0;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+
+  letter-spacing: 0.01em;
+
+  color: #475f7b;
+}
+
+.firstDiv {
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+}
+
+.secondDiv {
+  display: flex;
+  gap: 17px;
+  align-items: center;
+}
+
+.bellDiv {
+  background: red;
+
+  position: absolute;
+  height: 11px;
+  top: 5px;
+
+  border-radius: 50%;
+  padding: 3px;
+  color: white;
+  width: 6px;
+  height: 11px;
+  font-size: 9px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9px;
+  line-height: 11px;
+
+  letter-spacing: 0.5px;
+  text-align: center;
+
+  color: #ffffff;
+}
